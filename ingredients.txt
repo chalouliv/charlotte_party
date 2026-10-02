@@ -2,4 +2,5 @@
 1 lime
 1 cilantro
 1 garlic
-2 tomatos 
+2 tomatos
+1 onion
